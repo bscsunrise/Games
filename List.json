@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "list": [
     {
-      "name": "Steven Lambert",
-      "dir":"G1",
+      "name": "Audio Dash",
+      "dir": "G1",
+      "icon": "icon.jpg"
+    },
+    {
+      "name": "Jump Off Lines",
+      "dir": "G2",
       "icon": "icon.jpg"
     }
   ]
