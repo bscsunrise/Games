@@ -11,6 +11,11 @@
       "name": "Jump Off Lines",
       "dir": "G2",
       "icon": "icon.jpg"
+    },
+    {
+      "name": "Pipe Rush",
+      "dir": "G3",
+      "icon": "icon.jpg"
     }
   ]
 }
