@@ -1,0 +1,11 @@
+{
+  "name": "Games",
+  "version": "1.0.0",
+  "list": [
+    {
+      "name": "Steven Lambert",
+      "dir":"G1",
+      "icon": "icon.jpg"
+    }
+  ]
+}
